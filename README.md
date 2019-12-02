@@ -36,3 +36,5 @@
     2) You need to upload files at /var/www/ under Debian or Ubuntu Linux operating system.
 
     Apache Server configuration
+
+    https://vitux.com/how-to-install-and-configure-apache-web-server-on-ubuntu/
